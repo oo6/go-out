@@ -1,0 +1,10 @@
+{
+  "name": "go-out",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
